@@ -73,3 +73,25 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+############################
+## UNREAL GENERATED FILES ##
+############################
+
+*/Build/
+*/Binaries/
+*/DerivedDataCache
+*/Intermediate/
+*/Saved/
+BuildingEscape/Content/StarterContent/
+
+###################################
+## VISUAL STUDIO GENERATED FILES ##
+###################################
+
+*.VC.db
+*.suo
+*.VC.opendb
+.*sln
+*/enc_temp_folder/
